@@ -1,0 +1,92 @@
+def localProperties = new Properties()
+def localPropertiesFile = rootProject.file('local.properties')
+if (localPropertiesFile.exists()) {
+    localPropertiesFile.withReader('UTF-8') { reader ->
+        localProperties.load(reader)
+    }
+}
+
+def flutterRoot = localProperties.getProperty('flutter.sdk')
+if (flutterRoot == null) {
+    throw new GradleException("Flutter SDK not found. Define location with flutter.sdk in the local.properties file.")
+}
+
+def flutterVersionCode = localProperties.getProperty('flutter.versionCode')
+if (flutterVersionCode == null) {
+    flutterVersionCode = '1'
+}
+
+def flutterVersionName = localProperties.getProperty('flutter.versionName')
+if (flutterVersionName == null) {
+    flutterVersionName = '1.0'
+}
+
+apply plugin: 'com.android.application'
+apply plugin: 'kotlin-android'
+apply plugin: 'kotlin-kapt'
+apply plugin: 'com.google.gms.google-services'
+apply from: "$flutterRoot/packages/flutter_tools/gradle/flutter.gradle"
+
+android {
+    compileSdkVersion 30
+
+    sourceSets {
+        main.java.srcDirs += 'src/main/kotlin'
+    }
+
+    defaultConfig {
+        applicationId "com.app.coin_analyzer"
+        minSdkVersion 21
+        targetSdkVersion 30
+        versionCode flutterVersionCode.toInteger()
+        versionName flutterVersionName
+        multiDexEnabled true
+    }
+
+    dexOptions {
+        jumboMode = true
+    }
+
+    lintOptions {
+        textReport true
+        textOutput 'stdout'
+    }
+
+    buildTypes {
+        release {
+            // TODO: Add your own signing config for the release build.
+            // Signing with the debug keys for now, so `flutter run --release` works.
+            signingConfig signingConfigs.debug
+        }
+    }
+}
+
+flutter {
+    source '../..'
+}
+
+repositories {
+    repositories {
+        google()
+        jcenter()
+        mavenCentral()
+        maven { url 'https://www.jitpack.io' }
+    }
+}
+
+dependencies {
+    implementation project(":lib")
+    implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk7:$kotlin_version"
+    implementation 'androidx.multidex:multidex:2.0.1'
+
+    // wallet connect library
+    implementation "org.java-websocket:Java-WebSocket:1.4.0"
+
+    implementation 'com.squareup.moshi:moshi:1.8.0'
+    kapt 'com.squareup.moshi:moshi-kotlin-codegen:1.8.0'
+
+    implementation "com.squareup.okhttp3:okhttp:3.11.0"
+    implementation "com.github.komputing:khex:1.0.0"
+//    implementation 'com.github.WalletConnect:kotlin-walletconnect-lib:0.9.6'
+
+}

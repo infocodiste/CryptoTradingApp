@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":flutter_string_encryption" external.linked.project.path="$USER_HOME$/Documents/Flutter/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_string_encryption-0.3.1/android" external.root.project.path="$MODULE_DIR$/../../.." external.system.id="GRADLE" external.system.module.group="com.github.sroddy.flutterstringencryption" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="android-gradle" name="Android-Gradle">
+      <configuration>
+        <option name="GRADLE_PROJECT_PATH" value=":flutter_string_encryption" />
+        <option name="LAST_SUCCESSFUL_SYNC_AGP_VERSION" value="4.1.3" />
+        <option name="LAST_KNOWN_AGP_VERSION" value="4.1.3" />
+      </configuration>
+    </facet>
+    <facet type="android" name="Android">
+      <configuration>
+        <option name="SELECTED_BUILD_VARIANT" value="debug" />
+        <option name="ASSEMBLE_TASK_NAME" value="assembleDebug" />
+        <option name="COMPILE_JAVA_TASK_NAME" value="compileDebugSources" />
+        <afterSyncTasks>
+          <task>generateDebugSources</task>
+        </afterSyncTasks>
+        <option name="ALLOW_USER_CONFIGURATION" value="false" />
+        <option name="MANIFEST_FILE_RELATIVE_PATH" value="/src/main/AndroidManifest.xml" />
+        <option name="RES_FOLDER_RELATIVE_PATH" value="/src/main/res" />
+        <option name="RES_FOLDERS_RELATIVE_PATH" value="file://$USER_HOME$/Documents/Flutter/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_string_encryption-0.3.1/android/src/main/res;file://$USER_HOME$/Documents/Flutter/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_string_encryption-0.3.1/android/src/debug/res;file://$MODULE_DIR$/../../../../build/flutter_string_encryption/generated/res/rs/debug;file://$MODULE_DIR$/../../../../build/flutter_string_encryption/generated/res/resValues/debug" />
+        <option name="TEST_RES_FOLDERS_RELATIVE_PATH" value="file://$USER_HOME$/Documents/Flutter/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_string_encryption-0.3.1/android/src/androidTest/res;file://$USER_HOME$/Documents/Flutter/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_string_encryption-0.3.1/android/src/androidTestDebug/res;file://$MODULE_DIR$/../../../../build/flutter_string_encryption/generated/res/rs/androidTest/debug;file://$MODULE_DIR$/../../../../build/flutter_string_encryption/generated/res/resValues/androidTest/debug" />
+        <option name="ASSETS_FOLDER_RELATIVE_PATH" value="/src/main/assets" />
+        <option name="PROJECT_TYPE" value="1" />
+      </configuration>
+    </facet>
+    <facet type="kotlin-language" name="Kotlin">
+      <configuration version="3" platform="JVM 1.6" allPlatforms="JVM [1.6]" useProjectSettings="false">
+        <compilerSettings>
+          <option name="additionalArguments" value="-Xallow-no-source-files" />
+        </compilerSettings>
+        <compilerArguments>
+          <option name="destination" value="$MODULE_DIR$/../../../../build/flutter_string_encryption/tmp/kotlin-classes/debug" />
+          <option name="classpath" value="$MODULE_DIR$/../../../../build/flutter_string_encryption/intermediates/compile_r_class_jar/debug/R.jar:/Users/codiste/.gradle/caches/transforms-2/files-2.1/4a8902dcf6bef91ea6ce64fb4faffe52/jetified-flutter_embedding_debug-1.0.0-91c9fc8fe011352879e3bb6660966eafc0847233.jar:/Users/codiste/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-common-java8/2.2.0/cd3478503da69b1a7e0319bd2d1389943db9b364/lifecycle-common-java8-2.2.0.jar:/Users/codiste/.gradle/caches/transforms-2/files-2.1/5a5e81675c95d0d3097e6f2c69522ae0/fragment-1.1.0-api.jar:/Users/codiste/.gradle/caches/transforms-2/files-2.1/af50145b7443aa31f30017819d40ecab/jetified-activity-1.0.0-api.jar:/Users/codiste/.gradle/caches/transforms-2/files-2.1/4588edeed0f372bcf10be4f93e148a21/viewpager-1.0.0-api.jar:/Users/codiste/.gradle/caches/transforms-2/files-2.1/cc231297ae45ee7c6738c62be9a41048/loader-1.0.0-api.jar:/Users/codiste/.gradle/caches/transforms-2/files-2.1/a3c15b5fa9aa90a5b959a76948a03475/customview-1.0.0-api.jar:/Users/codiste/.gradle/caches/transforms-2/files-2.1/b20f8fd91cd580c205a485c8464e5ec6/core-1.1.0-api.jar:/Users/codiste/.gradle/caches/transforms-2/files-2.1/9211e20537f1c8c12fb3fea842af4425/lifecycle-runtime-2.2.0-api.jar:/Users/codiste/.gradle/caches/transforms-2/files-2.1/05b2a22afc1c8e4036f9cb12e82ce6f0/jetified-savedstate-1.0.0-api.jar:/Users/codiste/.gradle/caches/transforms-2/files-2.1/7ed5c1ac710143981850b52625f5bb15/lifecycle-livedata-2.0.0-api.jar:/Users/codiste/.gradle/caches/transforms-2/files-2.1/c27dc43352f6cd0af2fecb7793a5b1bc/lifecycle-livedata-core-2.0.0-api.jar:/Users/codiste/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-common/2.2.0/4ef09a745007778eef83b92f8f23987a8ea59496/lifecycle-common-2.2.0.jar:/Users/codiste/.gradle/caches/transforms-2/files-2.1/378c214d1b944a2a6a404d20c7e8739f/core-runtime-2.0.0-api.jar:/Users/codiste/.gradle/caches/modules-2/files-2.1/androidx.arch.core/core-common/2.1.0/b3152fc64428c9354344bd89848ecddc09b6f07e/core-common-2.1.0.jar:/Users/codiste/.gradle/caches/transforms-2/files-2.1/794b24e5817ddcf86852eb604de07bbd/versionedparcelable-1.1.0-api.jar:/Users/codiste/.gradle/caches/modules-2/files-2.1/androidx.collection/collection/1.1.0/1f27220b47669781457de0d600849a5de0e89909/collection-1.1.0.jar:/Users/codiste/.gradle/caches/transforms-2/files-2.1/b25f05c2cbc5c800bd9f1558cebcc41b/lifecycle-viewmodel-2.1.0-api.jar:/Users/codiste/.gradle/caches/modules-2/files-2.1/androidx.annotation/annotation/1.1.0/e3a6fb2f40e3a3842e6b7472628ba4ce416ea4c8/annotation-1.1.0.jar:/Users/codiste/.gradle/caches/transforms-2/files-2.1/c9d2b624452b01c63d14684e4b60bb86/jetified-kotlin-stdlib-jdk7-1.3.21.jar:/Users/codiste/.gradle/caches/transforms-2/files-2.1/bdcd8a42cb4251a598d85771582153c6/jetified-kotlin-stdlib-1.3.21.jar:/Users/codiste/.gradle/caches/transforms-2/files-2.1/418bbe6a40e1d712dfa834f43906f0de/jetified-kotlin-stdlib-common-1.3.21.jar:/Users/codiste/.gradle/caches/transforms-2/files-2.1/fc8a158b65be5058ec211dcf15af6b20/jetified-annotations-13.0.jar:/Users/codiste/.gradle/caches/transforms-2/files-2.1/14d04ef94a0fd7d277bc0b5746ef5624/jetified-java-aes-crypto-1.1.0-api.jar:/Users/codiste/Library/Android/sdk/platforms/android-30/android.jar" />
+          <option name="noStdlib" value="true" />
+          <option name="noReflect" value="true" />
+          <option name="moduleName" value="flutter_string_encryption_debug" />
+          <option name="languageVersion" value="1.3" />
+          <option name="apiVersion" value="1.3" />
+          <option name="pluginOptions">
+            <array />
+          </option>
+          <option name="pluginClasspaths">
+            <array />
+          </option>
+          <option name="errors">
+            <ArgumentParseErrors />
+          </option>
+        </compilerArguments>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_7">
+    <output url="file://$MODULE_DIR$/../../../../build/flutter_string_encryption/intermediates/javac/debug/classes" />
+    <output-test url="file://$MODULE_DIR$/../../../../build/flutter_string_encryption/intermediates/javac/debugUnitTest/classes" />
+    <exclude-output />
+    <content url="file://$USER_HOME$/Documents/Flutter/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_string_encryption-0.3.1">
+      <sourceFolder url="file://$USER_HOME$/Documents/Flutter/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_string_encryption-0.3.1/android/src/main/kotlin" isTestSource="false" />
+      <excludeFolder url="file://$USER_HOME$/Documents/Flutter/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_string_encryption-0.3.1/.dart_tool" />
+      <excludeFolder url="file://$USER_HOME$/Documents/Flutter/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_string_encryption-0.3.1/.pub" />
+      <excludeFolder url="file://$USER_HOME$/Documents/Flutter/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_string_encryption-0.3.1/android/.gradle" />
+      <excludeFolder url="file://$USER_HOME$/Documents/Flutter/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_string_encryption-0.3.1/build" />
+      <excludeFolder url="file://$USER_HOME$/Documents/Flutter/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_string_encryption-0.3.1/example/.dart_tool" />
+      <excludeFolder url="file://$USER_HOME$/Documents/Flutter/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_string_encryption-0.3.1/example/.pub" />
+      <excludeFolder url="file://$USER_HOME$/Documents/Flutter/flutter/.pub-cache/hosted/pub.dartlang.org/flutter_string_encryption-0.3.1/example/build" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../build/flutter_string_encryption/generated/aidl_source_output_dir/debug/out" />
+    <content url="file://$MODULE_DIR$/../../../../build/flutter_string_encryption/generated/aidl_source_output_dir/debugAndroidTest/out" />
+    <content url="file://$MODULE_DIR$/../../../../build/flutter_string_encryption/generated/ap_generated_sources/debug/out">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../build/flutter_string_encryption/generated/ap_generated_sources/debug/out" isTestSource="false" generated="true" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../build/flutter_string_encryption/generated/ap_generated_sources/debugAndroidTest/out" />
+    <content url="file://$MODULE_DIR$/../../../../build/flutter_string_encryption/generated/ap_generated_sources/debugUnitTest/out" />
+    <content url="file://$MODULE_DIR$/../../../../build/flutter_string_encryption/generated/renderscript_source_output_dir/debug/out" />
+    <content url="file://$MODULE_DIR$/../../../../build/flutter_string_encryption/generated/renderscript_source_output_dir/debugAndroidTest/out" />
+    <content url="file://$MODULE_DIR$/../../../../build/flutter_string_encryption/generated/res/resValues/androidTest/debug" />
+    <content url="file://$MODULE_DIR$/../../../../build/flutter_string_encryption/generated/res/resValues/debug">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../build/flutter_string_encryption/generated/res/resValues/debug" type="java-resource" />
+    </content>
+    <content url="file://$MODULE_DIR$/../../../../build/flutter_string_encryption/generated/res/rs/androidTest/debug" />
+    <content url="file://$MODULE_DIR$/../../../../build/flutter_string_encryption/generated/res/rs/debug" />
+    <content url="file://$MODULE_DIR$/../../../../build/flutter_string_encryption/generated/source/buildConfig/androidTest/debug" />
+    <content url="file://$MODULE_DIR$/../../../../build/flutter_string_encryption/generated/source/buildConfig/debug">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../build/flutter_string_encryption/generated/source/buildConfig/debug" isTestSource="false" generated="true" />
+    </content>
+    <orderEntry type="jdk" jdkName="Android API 28 Platform" jdkType="Android SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Gradle: io.flutter:flutter_embedding_debug:1.0.0-91c9fc8fe011352879e3bb6660966eafc0847233" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-common-java8:2.2.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-common:2.2.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.arch.core:core-common:2.1.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.collection:collection:1.1.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.annotation:annotation:1.1.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.3.21" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.3.21" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.3.21" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains:annotations:13.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.fragment:fragment:1.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.activity:activity:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.viewpager:viewpager:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.loader:loader:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.customview:customview:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.core:core:1.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-runtime:2.2.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.savedstate:savedstate:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-livedata:2.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-livedata-core:2.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.arch.core:core-runtime:2.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.versionedparcelable:versionedparcelable:1.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-viewmodel:2.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.github.tozny:java-aes-crypto:1.1.0@aar" level="project" />
+    <orderEntry type="library" name="Dart SDK" level="project" />
+  </component>
+</module>

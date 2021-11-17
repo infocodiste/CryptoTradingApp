@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android.iml" filepath="$PROJECT_DIR$/.idea/modules/android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/android.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/android.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1730756926/android.cloud_firestore.iml" filepath="$PROJECT_DIR$/.idea/modules/1730756926/android.cloud_firestore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-783434033/android.file_picker.iml" filepath="$PROJECT_DIR$/.idea/modules/-783434033/android.file_picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1738881844/android.firebase_core.iml" filepath="$PROJECT_DIR$/.idea/modules/1738881844/android.firebase_core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/447662815/android.firebase_storage.iml" filepath="$PROJECT_DIR$/.idea/modules/447662815/android.firebase_storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1663152768/android.flutter_inappwebview.iml" filepath="$PROJECT_DIR$/.idea/modules/1663152768/android.flutter_inappwebview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1619484693/android.flutter_plugin_android_lifecycle.iml" filepath="$PROJECT_DIR$/.idea/modules/-1619484693/android.flutter_plugin_android_lifecycle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1534665578/android.flutter_string_encryption.iml" filepath="$PROJECT_DIR$/.idea/modules/1534665578/android.flutter_string_encryption.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1571053098/android.flutter_webview_plugin.iml" filepath="$PROJECT_DIR$/.idea/modules/-1571053098/android.flutter_webview_plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/369816368/android.fluttertoast.iml" filepath="$PROJECT_DIR$/.idea/modules/369816368/android.fluttertoast.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-306798201/android.image_cropper.iml" filepath="$PROJECT_DIR$/.idea/modules/-306798201/android.image_cropper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1946940846/android.image_picker.iml" filepath="$PROJECT_DIR$/.idea/modules/-1946940846/android.image_picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lib/android.lib.iml" filepath="$PROJECT_DIR$/.idea/modules/lib/android.lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1825107361/android.package_info.iml" filepath="$PROJECT_DIR$/.idea/modules/1825107361/android.package_info.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/319284135/android.path_provider.iml" filepath="$PROJECT_DIR$/.idea/modules/319284135/android.path_provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1043858205/android.permission_handler.iml" filepath="$PROJECT_DIR$/.idea/modules/-1043858205/android.permission_handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-533589188/android.shared_preferences.iml" filepath="$PROJECT_DIR$/.idea/modules/-533589188/android.shared_preferences.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-497246664/android.sqflite.iml" filepath="$PROJECT_DIR$/.idea/modules/-497246664/android.sqflite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/381610069/android.url_launcher.iml" filepath="$PROJECT_DIR$/.idea/modules/381610069/android.url_launcher.iml" />
+    </modules>
+  </component>
+</project>
